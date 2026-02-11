@@ -1,0 +1,6 @@
+my math study plan
+-geometry is divided into :
+1.Plane Geometry contains: triangles and circles
+2.Solid Geometry
+3.Analytical Geometry
+4.Geometry Transformation
